@@ -1,0 +1,27 @@
+{
+    "name": "http-server",
+    "version": "1.0.0",
+    "description": "HTTP server",
+    "main": "index.js",
+    "dependencies": {
+      "minimist": "^1.2.8"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kashif5955/wd201.git"
+    },
+    "keywords": [
+      "wd201"
+    ],
+    "author": "Mohd Kashif Ali <akashif5955@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/kashif5955/wd201/issues"
+    },
+    "homepage": "https://github.com/kashif5955/wd201#readme"
+  }
